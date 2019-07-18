@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channel> 
+	<title>Mods</title>  
+	<link>https://wgmods.net/</link>  
+	<description>News</description>  
+	<language>ru</language> 
+	<pubDate>10:00 18.07.2019</pubDate>
+	<ttl>60</ttl>
+
+	<image>
+		<url>https://wgmods.net/</url>
+		<title>Login</title>
+		<link>https://wgmods.net/</link>
+	</image>
+
+	<item>
+		<title>Mods</title>
+		<link>https://only-mods.ru/modpack-piranhas/</link>
+		<description><![CDATA[<div> Follow the mod pack's updates and do send us a feedback on the website only-mods.ru! </div> ]]></description>
+	</item>
+</channel>
