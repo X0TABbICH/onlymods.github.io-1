@@ -15,7 +15,9 @@
 
 	<item>
 		<title>Mods</title>
-		<link>https://only-mods.ru/modpack-piranhas/</link>
-		<description><![CDATA[<div> Follow the mod pack's updates and do send us a feedback on the website only-mods.ru! </div> ]]></description>
+		<!-- <link>https://only-mods.ru/modpack-piranhas/</link> -->
+		<link>https://only-mods.ru/donat/</link>
+		<!-- <description><![CDATA[<div> Следи за обновлениями модпака, комментируй, присылай фидбек на наш сайт only-mods.ru! </div> ]]></description> -->
+		<description><![CDATA[<div> 4 August update 1.10 WOT, you can support our project on our website only-mods.ru! </div> ]]></description>
 	</item>
 </channel>

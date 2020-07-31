@@ -15,7 +15,9 @@
 
 	<item>
 		<title>Mods</title>
-		<link>https://only-mods.ru/modpack-piranhas/</link>
+		<!-- <link>https://only-mods.ru/modpack-piranhas/</link> -->
+		<link>https://only-mods.ru/donat/</link>
+		<!-- <description><![CDATA[<div> Follow the mod pack's updates and do send us a feedback on the website only-mods.ru! </div> ]]></description> -->
 		<description><![CDATA[<div> Follow the mod pack's updates and do send us a feedback on the website only-mods.ru! </div> ]]></description>
 	</item>
 </channel>
