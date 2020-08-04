@@ -4,7 +4,7 @@
 	<link>https://wgmods.net/</link>  
 	<description>News</description>  
 	<language>ru</language> 
-	<pubDate>21:00 31.07.2020</pubDate>
+	<pubDate>10:00 04.08.2020</pubDate>
 	<ttl>60</ttl>
 
 	<image>
@@ -15,9 +15,7 @@
 
 	<item>
 		<title>Mods</title>
-		<!-- <link>https://only-mods.ru/modpack-piranhas/</link> -->
-		<link>https://only-mods.ru/donat/</link>
-		<!-- <description><![CDATA[<div> Следи за обновлениями модпака, комментируй, присылай фидбек на наш сайт only-mods.ru! </div> ]]></description> -->
-		<description><![CDATA[<div> 4 August update 1.10 WOT, you can support our project on our website only-mods.ru! </div> ]]></description>
+		<link>https://only-mods.ru/modpack-piranhas/</link>
+		<description><![CDATA[<div> Следи за обновлениями модпака, комментируй, присылай фидбек на наш сайт only-mods.ru! </div> ]]></description>
 	</item>
 </channel>
