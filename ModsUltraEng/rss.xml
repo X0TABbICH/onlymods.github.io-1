@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <channel> 
 	<title>Mods</title>  
-	<link>https://wgmods.net/</link>  
+	<link>https://only-mods.net/</link>  
 	<description>News</description>  
 	<language>ru</language> 
-	<pubDate>10:00 09.05.2022</pubDate>
+	<pubDate>10:00 11.11.2022</pubDate>
 	<ttl>60</ttl>
 
 	<image>
-		<url>https://wgmods.net/</url>
+		<url>https://only-mods.net/</url>
 		<title>Login</title>
-		<link>https://wgmods.net/</link>
+		<link>https://only-mods.net/</link>
 	</image>
 
 	<item>
