@@ -4,7 +4,7 @@
 	<link>https://only-mods.net/</link>  
 	<description>News</description>  
 	<language>ru</language> 
-	<pubDate>10:00 11.11.2022</pubDate>
+	<pubDate>05:00 19.10.2023</pubDate>
 	<ttl>60</ttl>
 
 	<image>
@@ -15,7 +15,7 @@
 
 	<item>
 		<title>Mods</title>
-		<link>https://only-mods.net/category/modpack/</link>
+		<link>https://only-mods.net</link>
 		<description><![CDATA[<div> Следи за обновлениями модпака, комментируй, присылай фидбек на наш сайт only-mods.net! </div> ]]></description>
 	</item>
 </channel>
